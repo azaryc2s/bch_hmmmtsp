@@ -1,0 +1,37 @@
+{
+	"name": "zarychta_20_3_ONE_3",
+	"comment": "zarychta instance Nr. 3 with 20 nodes, 3 vehicles and speeds generated as ONE",
+	"type": "hmmVRP",
+	"node_count": 20,
+	"display_data_type": "COORD_DISPLAY",
+	"edge_weight_type": "EUC_2D",
+	"node_coordinates": [
+		[1120,6098],
+		[635,9138],
+		[8032,1626],
+		[7501,6058],
+		[4675,8922],
+		[1817,5467],
+		[9956,2337],
+		[1885,1897],
+		[3535,860],
+		[2977,661],
+		[1996,8324],
+		[5901,8831],
+		[5426,4442],
+		[5043,4591],
+		[510,3632],
+		[1314,9707],
+		[1623,2601],
+		[6536,4495],
+		[5251,9204],
+		[7343,573]
+	],
+	"edge_weights": null,
+	"depots": [
+		0
+	],
+	"vehicle_count": 3,
+	"travel_speeds": [1,1,1],
+	"Solution": null
+}

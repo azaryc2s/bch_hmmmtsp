@@ -1,0 +1,37 @@
+{
+	"name": "zarychta_20_2_RNG_4",
+	"comment": "zarychta instance Nr. 4 with 20 nodes, 2 vehicles and speeds generated as RNG",
+	"type": "hmmVRP",
+	"node_count": 20,
+	"display_data_type": "COORD_DISPLAY",
+	"edge_weight_type": "EUC_2D",
+	"node_coordinates": [
+		[950,125],
+		[4936,3164],
+		[3361,2110],
+		[3536,7649],
+		[4140,9421],
+		[5509,7993],
+		[8681,2662],
+		[2974,1486],
+		[4414,1789],
+		[2818,2366],
+		[6237,6659],
+		[2339,8650],
+		[4113,9126],
+		[4048,7878],
+		[3645,6852],
+		[6086,4193],
+		[3472,6983],
+		[9980,7612],
+		[7653,7325],
+		[6558,5854]
+	],
+	"edge_weights": null,
+	"depots": [
+		0
+	],
+	"vehicle_count": 2,
+	"travel_speeds": [5,8],
+	"Solution": null
+}
